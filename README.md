@@ -13,4 +13,5 @@
 ### Tools
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-00040c?style=for-the-badge&logo=Visual%20Studio%20Code)
 
-Follow me
+### Follow me
+![Insta](https://img.shields.io/badge/-Instagram-00040c?style=for-the-badge&logo=Instagram&logoColor=ffffff)

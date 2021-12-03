@@ -15,3 +15,11 @@
 
 ### Follow me
 [![Insta](https://img.shields.io/badge/-Instagram-00040c?style=for-the-badge&logo=Instagram&logoColor=ffffff)](https://www.instagram.com/)
+
+### Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=milkandhoneyy&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkandhoneyy&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+
+

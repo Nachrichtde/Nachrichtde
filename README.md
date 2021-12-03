@@ -16,6 +16,7 @@
 ### Follow me
 [![Insta](https://img.shields.io/badge/-Instagram-00040c?style=for-the-badge&logo=Instagram&logoColor=ffffff)](https://www.instagram.com/)
 
+### Wakatime Stats
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milkandhoneyy&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 

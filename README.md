@@ -13,4 +13,4 @@
 ![Git](https://img.shields.io/badge/-Git-00040c?style=for-the-badge&logo=Git&logoColor=ffffff)
 
 ### Wakatime Stats
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nachrichtde&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api?username=Nachrichtde)](https://github.com/anuraghazra/github-readme-stats)
